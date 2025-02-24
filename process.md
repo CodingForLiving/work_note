@@ -20,4 +20,22 @@
 
 ### lsof -p PID
 
+### strace -f -p PID
+
+### ltrace -p PID 跟踪库函数调用
+
+### gdb
+
+### gcore
+
+### pstack
+
+### perf 性能分析工具
+
+### ipcs 显示进程间通信状态
+
+### fuser 显示使用文件或套接字的进程
+
+### procrank 显示进程内存使用情况
+
 
